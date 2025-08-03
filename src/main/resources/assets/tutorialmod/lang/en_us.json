@@ -3,5 +3,9 @@
   "item.tutorialmod.raw_bismuth": "Raw Bismuth",
   "block.tutorialmod.bismuth_block": "Block of Bismuth",
   "block.tutorialmod.bismuth_ore": "Bismuth Ore",
-  "creativetab.tutorialmod.bismuth": "Bismuth"
+  "creativetab.tutorialmod.bismuth": "Bismuth",
+  "item.tutorialmod.chisel": "Chisel",
+  "block.tutorialmod.magic_block": "Magic Block",
+  "item.tutorialmod.crumpet": "Crumpet",
+  "item.tutorialmod.chisel.tooltip": "§7Mossify§r"
 }

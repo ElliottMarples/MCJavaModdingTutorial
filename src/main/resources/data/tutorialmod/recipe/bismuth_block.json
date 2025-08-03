@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": "tutorialmod:bismuth"
+  },
+  "result": {
+    "id": "tutorialmod:bismuth_block",
+    "count": 1
+  }
+}

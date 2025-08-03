@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "tutorialmod:bismuth_block"
+  ],
+  "result": {
+    "id": "tutorialmod:bismuth",
+    "count": 9
+  }
+}

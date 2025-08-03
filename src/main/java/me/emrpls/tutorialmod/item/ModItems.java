@@ -11,6 +11,10 @@ public class ModItems {
 
     public static final DeferredItem<Item> BISMUTH = ITEMS.registerSimpleItem("bismuth", new Item.Properties());
     public static final DeferredItem<Item> RAW_BISMUTH = ITEMS.registerSimpleItem("raw_bismuth", new Item.Properties());
+    public static final DeferredItem<Item> CHISEL = ITEMS.registerItem("chisel", ChiselItem::new, new Item.Properties());
+    public static final DeferredItem<Item> CRUMPET = ITEMS.registerSimpleItem("crumpet", new Item.Properties()
+            .food(ModFoods.Properties.CRUMPET, ModFoods.Consumables.CRUMPET)
+    );
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);
